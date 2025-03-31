@@ -8,7 +8,7 @@ This repository contains a Tableau Public dashboard and a Colab notebook used fo
 
 ## Tableau Public Dashboard
 
-You can view the Tableau Public dashboard [here](https://public.tableau.com/views/your-dashboard-link).
+You can view the Tableau Public dashboard [here](https://public.tableau.com/shared/7694ST6ZZ?:display_count=n&:origin=viz_share_link).
 
 ## Colab Notebook
 
